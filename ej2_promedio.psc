@@ -1,5 +1,5 @@
 Algoritmo sin_titulo
-	Definir condicion,nota1,nota2,nota3 Como real;
+	Definir condicion,nota1,nota2,nota3,promedio Como real;
 	Escribir 'solicitar condicion de promocion';
 	Leer condicion;
 	Escribir 'solicitar las tres notas';
